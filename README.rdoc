@@ -2,12 +2,12 @@
 
 {<img src="https://codeclimate.com/github/mjc/mailcheckjs-rails.png" />}[https://codeclimate.com/github/mjc/mailcheckjs-rails]
 
-mailcheckjs-rails wraps the [Mailcheck](https://github.com/Kicksend/mailcheck) library in a rails engine for simple
+mailcheckjs-rails wraps the {Mailcheck}[https://github.com/Kicksend/mailcheck] library in a rails engine for simple
 use with the asset pipeline provided by rails 4.  This gem incldues the development source, because the asset
 pipeline will minify in production.
 
 Mailcheck is "The Javascript library and jQuery plugin that suggests a right domain when your users misspell it in
-an email address."  Please see the [Mailcheck README](https://github.com/Kicksend/mailcheck) for details.
+an email address."  Please see the {Mailcheck README}[https://github.com/Kicksend/mailcheck] for details.
 
 == Installation
 
