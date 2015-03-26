@@ -1,5 +1,6 @@
 = mailcheckjs-rails
 
+{<img src="https://badge.fury.io/rb/mailcheckjs-rails.svg" alt="Gem Version" />}[http://badge.fury.io/rb/mailcheckjs-rails]
 {<img src="https://codeclimate.com/github/mjc/mailcheckjs-rails.png" />}[https://codeclimate.com/github/mjc/mailcheckjs-rails]
 
 mailcheckjs-rails wraps the {Mailcheck}[https://github.com/Kicksend/mailcheck] library in a rails engine for simple
@@ -21,7 +22,7 @@ Add the following directive to your Javascript manifest file (application.js):
 
 == Versioning
 
-mailcheckjs-rails 1.0.2 == Mailcheck 1.0.2
+mailcheckjs-rails 1.0.5 == Mailcheck 1.0.5
 
 Every attempt is made to mirror the currently shipping Mailcheck version number wherever possible.
 The major, minor, and patch version numbers will always represent the Mailcheck version. Should a gem
