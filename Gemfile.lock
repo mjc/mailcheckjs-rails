@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    mailcheckjs-rails (1.1.2)
-      railties (>= 3.2, < 4.3)
+    mailcheckjs-rails (1.1.2.1)
+      railties (>= 3.2)
 
 GEM
   remote: https://rubygems.org/
