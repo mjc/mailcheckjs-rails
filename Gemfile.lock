@@ -92,7 +92,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.19.0, < 2.0)
     rake (12.3.3)
-    rdoc (6.1.1)
+    rdoc (6.3.2)
     semver2 (3.4.2)
     thor (0.20.3)
     thread_safe (0.3.6)
@@ -107,7 +107,7 @@ DEPENDENCIES
   jeweler (~> 2.3.9)
   mailcheckjs-rails!
   rake
-  rdoc (~> 3.12)
+  rdoc (~> 6.3)
 
 BUNDLED WITH
    1.13.0
